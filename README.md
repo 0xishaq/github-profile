@@ -1,6 +1,6 @@
 ### Hello, Everyone!👋
-### Fullstack Javascript Developer
-### Backend Engineer
+### Crypto Explorer
+### Doin stuff on Little Things
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=0xishaq&show_icons=true&count_private=true&theme=vue-dark&include_all_commits=true)](https://github.com/0xishaq?tab=repositories)
 
